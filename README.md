@@ -1,2 +1,10 @@
 # sass-starter
-This is sass starter package
+This is minimalistic sass starter package
+
+Clone 
+
+To install
+"npm install"
+
+to start
+"npm start"
